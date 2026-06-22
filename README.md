@@ -12,6 +12,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
+| [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -20,4 +21,12 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
