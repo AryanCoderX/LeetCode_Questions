@@ -21,6 +21,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0001-two-sum) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -29,4 +30,24 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
