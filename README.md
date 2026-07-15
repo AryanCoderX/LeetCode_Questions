@@ -50,4 +50,12 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
