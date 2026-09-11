@@ -7,6 +7,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
@@ -21,6 +22,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Stack
