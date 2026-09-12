@@ -56,6 +56,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -69,4 +70,12 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
