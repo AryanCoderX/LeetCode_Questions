@@ -28,6 +28,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0070-climbing-stairs) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -102,4 +104,8 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1765-merge-in-between-linked-lists) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
