@@ -63,6 +63,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0070-climbing-stairs) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -99,5 +100,6 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Linked List
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1765-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
