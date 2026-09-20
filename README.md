@@ -16,6 +16,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
