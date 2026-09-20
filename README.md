@@ -15,6 +15,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
+| [1894-merge-strings-alternately](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
@@ -77,6 +78,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
