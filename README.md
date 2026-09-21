@@ -28,6 +28,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0001-two-sum](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0051-n-queens) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -95,10 +96,12 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
