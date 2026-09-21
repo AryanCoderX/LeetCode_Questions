@@ -97,11 +97,13 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | ------- |
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
