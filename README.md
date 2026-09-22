@@ -32,6 +32,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
@@ -45,6 +46,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Binary Search
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -57,12 +59,14 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
@@ -84,6 +88,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
