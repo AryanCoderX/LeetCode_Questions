@@ -62,6 +62,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -121,6 +122,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1765-merge-in-between-linked-lists) |
 ## Geometry
@@ -135,4 +137,16 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
