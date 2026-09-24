@@ -12,12 +12,14 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
