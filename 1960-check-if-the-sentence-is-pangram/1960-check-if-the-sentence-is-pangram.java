@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        if(sentence.length()<26) return false;
+        /*if(sentence.length()<26) return false;
 
         StringBuilder sb= new StringBuilder();
         HashSet<Character> map= new HashSet<>();
@@ -15,6 +15,17 @@ class Solution {
             }
         }
 
-        return (sb.length()==26);
+        return (sb.length()==26);*/
+
+                    //OR
+
+        if(sentence.length()<26) return false;
+
+        for(char ch='a'; ch<='z'; ch++){
+            if(sentence.indexOf(ch)==-1){
+                return false;
+            }
+        }
+        return true;
     }
 }
