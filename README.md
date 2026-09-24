@@ -10,6 +10,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0036-valid-sudoku](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
+| [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -25,6 +26,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -34,6 +36,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0051-n-queens) |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
+| [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -65,6 +68,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -93,6 +97,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
@@ -143,6 +148,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -151,4 +157,12 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
