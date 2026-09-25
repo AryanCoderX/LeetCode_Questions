@@ -9,6 +9,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0001-two-sum](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -17,6 +18,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
@@ -34,6 +36,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0001-two-sum](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0051-n-queens) |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -97,6 +100,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
