@@ -84,6 +84,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
