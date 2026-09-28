@@ -39,6 +39,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0049-group-anagrams](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0051-n-queens) |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
+| [0204-count-primes](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
@@ -86,12 +87,14 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | ------- |
 | [0009-palindrome-number](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0204-count-primes) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0204-count-primes) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -170,4 +173,20 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
