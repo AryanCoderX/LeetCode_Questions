@@ -11,6 +11,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0037-sudoku-solver](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
@@ -105,6 +106,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -145,6 +147,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1765-merge-in-between-linked-lists) |
 ## Geometry
