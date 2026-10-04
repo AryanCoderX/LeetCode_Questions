@@ -25,6 +25,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
 | [1297-maximum-number-of-balloons](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
@@ -56,6 +57,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0020-valid-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -205,4 +207,5 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | [0020-valid-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
