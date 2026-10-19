@@ -20,6 +20,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0139-word-break) |
@@ -116,6 +117,7 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1894-merge-strings-alternately) |
@@ -225,4 +227,20 @@ This contains all my leetcode questions and my thoughtprocess of solving them
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanCoderX/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
